@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:jiitak_test/src/controller/getx_controller.dart';
+import 'package:jiitak_test/src/view_model/getx_controller.dart';
 
 import 'package:jiitak_test/src/widgets/stamp_card_detials_list.dart';
 

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:badges/badges.dart' as badges;
-import 'package:jiitak_test/src/controller/getx_controller.dart';
+import 'package:jiitak_test/src/view_model/getx_controller.dart';
 import 'package:jiitak_test/src/widgets/edit_store_profile_mobile.dart';
 import 'package:jiitak_test/src/widgets/text.dart';
 
